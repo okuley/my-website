@@ -8,11 +8,11 @@ function Home(){
         <img  className="img-thumbnail img-fluid" src="./gyening.jpg"  alt="Gyening picture" />
         </div>
         <div className="col-6">
-        <p>
-        Hi there. I'm Emanuel Gyening. 
+        <p className="">
+        Hi there. I'm <strong>Emanuel Gyening</strong>. 
         I'm a full stack developer based in Nottingham, United Kingdom.
-        I have also have techno-functional experience in Oracle Flexcube Universal Banking Software.
-        I'm well versed in programing in Java (JavaFx and Spring boot),PHP(Laravel) , React and Sql.
+        I have also have techno-functional experience in <strong>Oracle Flexcube Universal Banking Software</strong>.
+        I'm well versed in programing in <strong>Java (JavaFx and Spring boot),PHP(Laravel) ,Javascript (React) and Sql</strong>.
         </p>
         <p>
           <h3>SKILLS & FOCUS</h3>
