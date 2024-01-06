@@ -11,7 +11,7 @@ function Home(){
         <p className="">
         Hi there. I'm <strong>Emanuel Gyening</strong>. 
         I'm a full stack developer based in Nottingham, United Kingdom.
-        I have also have techno-functional experience in <strong>Oracle Flexcube Universal Banking Software</strong>.
+        I also have techno-functional experience in <strong>Oracle Flexcube Universal Banking Software</strong>.
         I'm well versed in programing in <strong>Java (JavaFx and Spring boot),PHP(Laravel) ,Javascript (React) and Sql</strong>.
         </p>
         <p>
