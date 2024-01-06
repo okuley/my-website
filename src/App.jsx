@@ -17,7 +17,7 @@ function App() {
 
     <Navbar/>
     <Routes>
-    <Route exact path="/" element={<Home />} />
+    <Route exact path="/my-website" element={<Home />} />
     </Routes>
     </Router>
     <Footer/>
