@@ -11,7 +11,7 @@ function Home(){
         </div>
         <div className="row">
         <div className="col-4">
-        <h3>About</h3>
+        <h3>ABOUT</h3>
         <p className="">
         Hi there. I'm <strong>Emanuel Gyening</strong>. 
         I'm a full stack developer based in Nottingham, United Kingdom.
