@@ -12,7 +12,7 @@ function Home(){
         <div className="row">
         <div className="col-4">
         <h3>ABOUT</h3>
-        <p className="">
+        <p className="about">
         Hi there. I'm <strong>Emanuel Gyening</strong>. 
         I'm a full stack developer based in Nottingham, United Kingdom.
         I also have techno-functional experience in <strong>Oracle Flexcube Universal Banking Software</strong>.
